@@ -4,3 +4,9 @@ pandas
 SpeachRecogniting
 PyAudio
 Scikit-learn
+streamlit
+nltk
+speechrecognition
+pyttsx3
+pyaudio
+pandas
